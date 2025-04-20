@@ -1,0 +1,11 @@
+[package]
+name = "mrr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.98"
+clap = { version = "4.5.37", features = ["derive"] }
+indicatif = "0.17.11"
+regex = "1.11.1"
+ssh-key = { version = "0.6.7", features = ["ed25519", "getrandom"] }
