@@ -1,4 +1,4 @@
-# mrr
+# 🪞 mrr
 Pronounced "mirror". This is a simple Rust cli for generating vanity SSH keys.
 Specifically, it generates SSH keys whose SHA-256 fingerprint matches a
 given regex. For example:
